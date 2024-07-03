@@ -6,7 +6,7 @@ export default {
   },
   rules: {
     ...next.configs.recommended.rules,
-    ...nextPlugin.configs["core-web-vitals"].rules,
+    ...next.configs["core-web-vitals"].rules,
     "@next/next/no-img-element": "error",
   },
   ignores: ["./.next/*", "./node_modules/*", "./dist/*"],
