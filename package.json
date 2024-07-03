@@ -1,6 +1,6 @@
 {
   "name": "@hinataohyama/ts-eslint-config",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "easy to set up eslint",
   "type": "module",
   "main": "./configs/index.js",
