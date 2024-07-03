@@ -1,5 +1,5 @@
 {
-  "name": "ts-eslint-config",
+  "name": "@hinataohyama/-eslint-config",
   "version": "0.1.0",
   "description": "easy to set up eslint",
   "type": "module",
