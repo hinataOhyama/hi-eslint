@@ -4,13 +4,18 @@
   "description": "easy to set up eslint",
   "type": "module",
   "main": "./configs/index.js",
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/hinataOhyama/hi-eslint" 
+  },
+  "homepage": "https://github.com/hinataOhyama/hi-eslint/blob/main/README.md",
   "author": "hinataOhyama",
   "license": "MIT",
   "files": [
     "configs",
     "rules"
   ],
-  "devDependencies": {
+  "dependencies": {
     "@eslint/js": "^9.6.0",
     "@next/eslint-plugin-next": "^14.2.4",
     "@typescript-eslint/eslint-plugin": "^7.15.0",
@@ -24,14 +29,5 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-storybook": "^0.8.0",
     "typescript": "^5.4.5"
-  },
-  "peerDependencies": {
-    "eslint": "^8.56.0",
-    "typescript": "^4.7.5 || ^5.0.0"
-  },
-  "peerDependenciesMeta": {
-    "typescript": {
-      "optional": true
-    }
   }
 }
