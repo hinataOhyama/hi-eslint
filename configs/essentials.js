@@ -20,6 +20,6 @@ export default [
   bestPracticesRuleSet,
   es6RuleSet,
   variablesRuleSet,
-  importsRuleSet,
+  // importsRuleSet,
   promiseRuleSet,
 ];
