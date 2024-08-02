@@ -1,4 +1,4 @@
-# next&react用のeslintパッケージ
+# next&react用のeslintパッケージ(WIP)
 
 ## 対応eslint
 
